@@ -1,0 +1,44 @@
+html{
+			
+			background: #7fffd4 url("../img/Champagne-Popping-Transparent-PNG.png")  no-repeat;	
+			background-position: absolute;
+			background-size: 75% 300%;	
+
+
+		}
+		.star_img {
+			max-width: 10%;
+			height: auto;
+			top: 50%;
+			transform: translate(0%, 100%);
+
+		}
+		.text_HB{
+			margin: 0;
+			padding: 8px;
+		    position: absolute;
+		    top: 50%;
+		    left: 50%;
+		    margin-right: -50%;
+		    transform: translate(-50%, -50%);
+		    font-family: Verdana, Georgia;
+		}
+		#det_text{
+			top: auto;
+		    bottom: 20%;
+		}
+		#main_text{
+			font-size: 5%;
+			border: 1px solid #ffffff;
+			border-radius: 8px;
+		}
+		#right{
+			transform: translate(100%, 100%);
+		}
+		#left{
+			top: 50%;
+			margin-left: 34.5%;
+		}
+		#extra_txt{
+			text-shadow: 2px 2px 4px #f400f0;
+		}
